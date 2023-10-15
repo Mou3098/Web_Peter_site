@@ -1,3 +1,2 @@
-# Web_Personal_site
+#personal web site
 
-https://mou3098.github.io/Web_Personal_site/
