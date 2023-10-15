@@ -1,0 +1,43 @@
+.alldiv {
+  height: 700px;
+  margin: 5px;
+  padding: 5px;
+}
+.cls1 {
+  background-image: url(/header-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cls2 {
+  background-image: url(/biography-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cls3 {
+  background-image: url(/latest-work-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.cls4 {
+  background-image: url(/footer-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.hire {
+  padding: 17px;
+  background-color: hotpink;
+  color: white;
+  border-radius: 2px;
+  border-color: hotpink;
+}
+.msg {
+  padding-top: 24px;
+  padding-bottom: 24px;
+  padding-left: 44px;
+  padding-right: 44px;
+  border-radius: 5px;
+  background-color: hotpink;
+  color: white;
+  border-color: hotpink;
+}
